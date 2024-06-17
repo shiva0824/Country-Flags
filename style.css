@@ -1,0 +1,194 @@
+.main{
+    border: 1px solid rgb(151, 161, 161) ;
+    height: 100px;
+    width: 150px;
+}
+
+/* 1. Palau Flag */
+#PALAU{
+    background-color: #4AADD6;
+    height: 100px;
+    width: 150px;
+}
+
+#PALAU > div{
+    height: 50px;
+    width: 50px;
+    background-color: #FFDE00;
+    border-radius: 50%;
+    position: relative;
+    left: 45px;
+    top: 25px;
+}
+
+/* 2. Japan Flag */
+#JAPAN{
+    background-color: #FFFFFF;
+    height: 100px;
+    width: 150px;
+}
+
+#JAPAN > div{
+    height: 50px;
+    width: 50px;
+    background-color: #BC002D;
+    border-radius: 50%;
+    position: relative;
+    left: 45px;
+    top: 25px;
+}
+
+/* 3. Ukraine Flag */
+
+.UKRAINE{
+    height: 50px;
+    width: 150px;
+}
+
+/* 4. Latvia Flag */
+
+.LATVIA{
+    height: 40px;
+    width: 150px;
+}
+
+/* 5. Austria Flag */
+
+.AUSTRIA{
+    height: 33.33px;
+    width: 150px;
+}
+
+/* 6. Poland Flag */
+
+.POLAND{
+    height: 50px;
+    width: 150px;
+}
+
+/* 7. Monaco Flag */
+
+.MONACO{
+    height: 50px;
+    width: 150px;
+}
+
+/* 8. Bangladesh Flag */
+
+#BANGLADESH{
+    background-color: #006A4E;
+    height: 100px;
+    width: 150px;
+}
+
+#BANGLADESH > div{
+    height: 50px;
+    width: 50px;
+    background-color: #D21034;
+    border-radius: 50%;
+    position: relative;
+    left: 45px;
+    top: 25px;
+}
+
+/* 9. INDONESIA Flag */
+
+.INDONESIA{
+    height: 50px;
+    width: 150px;
+}
+
+/* 10. YEMEN Flag */
+.YEMEN{
+    height: 33.33px;
+    width: 150px;
+}
+
+/* 11. Netherlands Flag */
+.NETHERLANDS{
+    height: 33.33px;
+    width: 150px;
+}
+
+/* 12. BOLIVIA Flag */
+.BOLIVIA{
+    height: 33.33px;
+    width: 150px;
+}
+
+/* 13. THAILAND Flag */
+.THAILAND{
+    height: 16.75px;
+    width: 150px;
+}
+
+.THAILAND1{
+    height: 33px;
+    width: 150px;
+}
+
+/* 14. BULGARIA Flag */
+.BULGARIA{
+    height: 33.33px;
+    width: 150px;
+}
+
+/* 15. NIGER Flag */
+.NIGER{
+    height: 33.33px;
+    width: 150px;
+}
+
+.NIGER > div{
+    height: 33.3px;
+    width: 33.3px;
+    background-color: #FF681F;
+    border-radius: 50%;
+    position: relative;
+    left: 55px;
+}
+
+/* 16. BOTSWANA Flag */
+.BOTSWANA{
+    height: 40PX;
+    width: 150px;
+}
+
+.BOTSWANA1{
+    height: 14px;
+    width: 150px;
+}
+
+.BOTSWANA2{
+    height: 3px;
+    width: 150px;
+}
+
+/* 17. LAOS Flag */
+.LAOS{
+    height: 28px;
+    width: 150px;
+}
+
+.LAOS1{
+    height: 44px;
+    width: 150px;
+    background-color: #002868;
+}
+
+.LAOS1 > div{
+    height: 38px;
+    width: 38px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    position: relative;
+    top: 3px;
+    left: 55px;
+}
+
+/* 18. LUXEMBOURG Flag */
+.LUXEMBOURG{
+    height: 33.33px;
+    width: 150px;
+}
+
