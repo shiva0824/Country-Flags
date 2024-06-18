@@ -4,6 +4,15 @@
     width: 150px;
 }
 
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px 100px 100px;
+    gap: 70px;
+} 
+
+
 /* 1. Palau Flag */
 #PALAU{
     background-color: #4AADD6;
@@ -192,3 +201,15 @@
     width: 150px;
 }
 
+/* 19. NIGERIA Flag */
+
+.NIGERIA{
+    display: flex;
+    height: 100px;
+    width: 150px;
+    border: 1px solid rgb(151, 161, 161) ;
+}
+
+.flag{
+    flex: 1;
+}
